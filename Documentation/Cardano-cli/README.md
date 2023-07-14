@@ -11,6 +11,4 @@ All documents and diagrams in this folder can be printed on 11 X 17 ledger size 
 * Alessio - DEV pool / Italian
 * Kal - CLOVR pool / Bulgarian
 * TOKEN pool / Spanish
-* ADAbreathes - AIR pool / Portuguese
 * Neal - HAMDA pool / German
-* BTBF - XSP pool / Japanese
