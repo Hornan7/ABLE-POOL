@@ -41,6 +41,8 @@ and protocol parameters. These materials include:
 
     These infographics and tutorials are currently being utilized in Constitution Drafting workshops around the world, 
     demonstrating their practical application and value to the community.
+    
+![image](https://github.com/user-attachments/assets/ea791868-88cd-466a-9e5d-00f3d72ce3c0)
 
 - **Tutorial Videos**: 
   - A comprehensive playlist of tutorial videos that cover everything you need to know about Cardano governance. 
