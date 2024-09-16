@@ -78,13 +78,16 @@ trust and credibility that the Cardano Foundation's delegation has instilled in 
 not only enhanced our pool's reputation but has also attracted more individual delegators and partnerships, further solidifying 
 our position within the Cardano ecosystem.
 
+![image](https://github.com/user-attachments/assets/e19e3404-061c-4a55-b6d9-2fa8e5eaffba)
+
+
 ### 2.2 Enhanced Credibility
 The delegation from the Cardano Foundation has significantly bolstered our credibility within the community. 
 It has also legitimized the documentation we produced both before and after receiving the delegation. This support 
 is evident through numerous testimonials from community members and stakeholders, as well as various partnerships 
 and collaborations facilitated by this delegation. Here are some examples of community support:
 
-(TODO: Add pictures of testimonials and collaborations)
+![image](https://github.com/user-attachments/assets/f54a4ddb-33ba-4afd-8cf6-ff0748248e8a)
 
 ### 2.3 Financial Support
 Thanks to the delegation additional reward we received from producing blocks, we receive an additional 30 ADA per 
